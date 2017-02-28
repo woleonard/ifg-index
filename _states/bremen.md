@@ -16,6 +16,7 @@ eine unverzügliche aktive Veröffentlichung von Informationen
 im Transparenzportal Bremen vorgeschrieben. Hierzu gehören
 Verträge, Gutachten, Unternehmensdaten und Verwaltungsvorschriften
 von allgemeinem Interesse.
+
 Bremen erreicht nach der Reform Platz 3, was vor allem an
 der hohen Punktzahl für die Informationsrechte und die Ausgestaltung
 der Ausnahmen liegt. Verbesserungsbedarf besteht bei

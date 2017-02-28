@@ -23,6 +23,7 @@ zu veröffentlichen. Vorerst soll allerdings nur eine einzige
 Kommune in einem Modellprogramm ins zu schaffende
 Transparenzregister des Landes eingebunden werden.
 
+
 Bislang reicht es für Thüringen nur für Platz 10, was vor allem
 an den unzureichend geregelten Informationsrechten liegt.
 Damit hat Thüringen eines der schwächsten Informationsfreiheitsgesetze

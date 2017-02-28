@@ -17,7 +17,9 @@ HmbTG ersetzte das Hamburger Informationsfreiheitsgesetz
 machen. Dazu gehören etwa Gutachten, Senatsbeschlüsse und
 Verträge ab 100.000 Euro, die die Daseinsvorsorge betreffen.
 Hamburg ist nach wie vor Spitzenreiter, da es in nahezu allen
-Bereichen hohe Punktzahlen erreicht. Eine kleine Abweichung
+Bereichen hohe Punktzahlen erreicht.
+
+Eine kleine Abweichung
 gibt es bei den Auskunftspflichten verschiedener Stellen. Ausgenommen
 von der Pflicht sind in Hamburg Rechnungshof, Steuerbehörden,
 Verfassungsschutz und der NDR als öffentlichrechtlicher

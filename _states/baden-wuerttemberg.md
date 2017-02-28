@@ -16,6 +16,7 @@ davon, ob sie ein persönliches Informationsinteresse
 vorweisen können oder nicht. Allerdings besteht bei der Auskunftspflicht
 verschiedener Stellen Verbesserungsbedarf. Zum
 Beispiel Schulen und Hochschulen sind ausgenommen.
+
 Die Behörden müssen die angefragten Informationen innerhalb
 eines Monats bereitstellen, in Ausnahmefällen innerhalb
 von drei Monaten. Wenn die voraussichtlichen Gebühren über

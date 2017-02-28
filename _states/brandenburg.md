@@ -15,6 +15,7 @@ Außerdem wurde die Anfertigung von Kopien gesetzlich verankert.
 Zusätzlich soll die Verwaltung des Landes von sich aus
 Daten auf einer einheitlichen Plattform zur Verfügung stellen,
 die dann frei nutzbar sind.
+
 Im rot-roten Koalitionsvertrag (2014-2019) steht: „Die Koalition
 will verstärkt die Potentiale des Internets nutzen, um für
 die Bürgerinnen und Bürger mehr Mitgestaltung zu gewährleisten,

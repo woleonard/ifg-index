@@ -15,7 +15,9 @@ es Interessierten, das Gesetz online zu kommentieren und in
 Workshops Änderungsvorschläge zu unterbreiten.
 Rheinland-Pfalz steht mit seinem Gesetz auf Platz 5. Dies
 liegt vor allem an der Pflicht zur aktiven Veröffentlichung
-einiger Informationen. Dass die kommunale Ebene weitgehend
+einiger Informationen.
+
+Dass die kommunale Ebene weitgehend
 außen vor bleibt, ist die größte Schwäche des Gesetzes. Hier
 verharrt es auf dem Stand des bereits bestehenden
 Landesinformationsfreiheitsgesetzes und ignoriert, dass gerade

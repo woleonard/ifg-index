@@ -15,6 +15,7 @@ Entwurf beschlossen. Er nimmt jedoch die kommunale Ebene
 bei der Veröffentlichung zentraler Daten aus. Außerdem ist im
 Entwurf keine Begrenzung von Gebühren vorgesehen. Das gibt
 es sonst nur in Baden-Württemberg.
+
 Unabhängig von den (fehlenden) gesetzlichen Regelungen
 auf Landesebene erlaubt das Kommunalverfassungsgesetz den
 Kommunen, jeweils eigenständig sogenannte Informationsfreiheitssatzungen

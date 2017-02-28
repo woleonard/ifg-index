@@ -26,7 +26,9 @@ Verfassungsschutz und der NDR als öffentlichrechtlicher
 Rundfunk. Eine weitere kleinere Schwäche sind
 fehlende Legaldefinitionen und daraus folgende Rechtsunsicherheit.
 Zum Beispiel sind Begriffe wie „Studien“ oder „Gutachten“
-im Gesetz nicht klar definiert. Unklar bleibt auch, ob die
+im Gesetz nicht klar definiert.
+
+Unklar bleibt auch, ob die
 mittelbare Staatsverwaltung veröffentlichungspflichtig oder lediglich
 auskunftspflichtig ist. Diese Frage wird derzeit gerichtlich
 geklärt, sie hat zentrale Bedeutung. Denn zur mittelbaren

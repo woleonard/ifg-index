@@ -17,6 +17,8 @@ Nahverkehr und der Energieversorgung vor. Bündnis
 90/Die Grünen und die Piratenpartei versuchten seitdem mit
 mehreren Anträgen, das Gesetz zu einem Transparenzgesetz
 weiterzuentwickeln. Sie scheiterten an der rot-schwarzen Regierungskoalition.
+
+
 Die seit 2016 regierende rot-rot-grüne Landesregierung hat
 vereinbart, das Informationsfreiheitsgesetz in Richtung eines
 Transparenzgesetzes weiter zu entwickeln. Konkrete Vorschläge

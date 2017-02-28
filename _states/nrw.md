@@ -13,6 +13,8 @@ der rot-grünen Landesregierung (2012-2017) steht: „Wir
 werden die Veröffentlichungspflichten der öffentlichen Stellen
 deutlich ausweiten und damit das Informationsfreiheitsgesetz
 hin zu einem Transparenzgesetz weiterentwickeln.“
+
+
 Das Bündnis „NRW blickt durch“ hat im Februar 2014 einen
 Entwurf für ein Transparenz- und Informationsfreiheitsgesetz
 (TIFG NRW) nach Hamburger Vorbild vorgelegt. Es würde Behörden
@@ -24,7 +26,9 @@ Die Landesregierung hat 2014 einen Schritt hin zu offenerem
 Regierungs- und Verwaltungshandeln getan. Ihre „Open
 Government“-Strategie umfasst die Bereitstellung von Daten
 und Informationen sowie mehr Bürgerbeteiligung durch elektronische
-Beteiligungsverfahren. Nach Prüfung der rechtlichen
+Beteiligungsverfahren.
+
+Nach Prüfung der rechtlichen
 Möglichkeiten sollen Verwaltungsdaten als Rohdaten maschinenlesbar,
 kostenfrei und möglichst zur uneingeschränkten Nutzung
 online bereitgestellt werden. Dies ersetzt allerdings kein

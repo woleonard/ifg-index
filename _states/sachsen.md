@@ -12,7 +12,9 @@ grundsätzlich Zugang zu behördlichen Informationen und Dokumenten
 bekommen, wenn nicht wesentliche Rechtsgüter wie
 der Schutz von personenbezogenen Daten, von Betriebs- und
 Geschäftsgeheimnissen oder besonderen öffentlichen Belangen
-entgegenstehen“. Das sächsische Innenministerium teilt mit,
+entgegenstehen“.
+
+Das sächsische Innenministerium teilt mit,
 ein Gesetzentwurf werde noch erarbeitet. Einzige Lichtblicke
 sind die Städte Dresden und Leipzig, die sich eigene Informationsfreiheitssatzungen
 gegeben haben.

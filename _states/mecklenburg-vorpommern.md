@@ -16,6 +16,7 @@ gehörten, galt dort das schwedische Recht mit der 1766 eingeführten
 Verwaltungstransparenz. Eine Evaluation des Gesetzes
 erfolgte zuletzt im Jahr 2009. Die letzte Novellierung fand
 2011 statt.
+
 Ein Vorschlag für ein Transparenz- und Informationsfreiheitsgesetz,
 der zahlreiche Änderungen und die Einführung eines
 Informationsportals enthielt, wurde von der Opposition 2013
